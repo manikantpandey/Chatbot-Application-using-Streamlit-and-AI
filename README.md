@@ -25,8 +25,8 @@ This Streamlit-based web application offers an interactive AI-powered chat inter
 ## Installation Guide
 ### Clone the Repository:
 ```bash
-git clone [Your-Repository-Link]
-cd [Your-Repository-Name]
+git clone https://github.com/manikantpandey/Chatbot-Application-using-Streamlit-and-AI.git
+cd Chatbot-Application-using-Streamlit-and-AI
 ```
 
 ## Install Required Packages:
@@ -40,7 +40,7 @@ Create a .env file in the root directory and add necessary environment variables
 ## Running the Application
 ### Launch the application by running:
 ```bash
-streamlit run [Your-Script-Name].py
+streamlit run web.py
 ```
 Access the web interface via the provided URL after execution.
 
