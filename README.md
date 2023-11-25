@@ -14,7 +14,6 @@ This Streamlit-based web application offers an interactive AI-powered chat inter
 ## System Requirements
 - Python 3.x
 - Streamlit
-- PyPDF2
 - LangChain
 - HuggingFace Transformers
 - NLTK
